@@ -1,0 +1,23 @@
+Package: net.daliitm.a-bypass
+Section: Bypass
+Installed-Size: 456
+Maintainer: Baw Appie <pp121324@gmail.com>
+Filename: A-Bypass.deb
+Architecture: iphoneos-arm
+Version: 1.2.4
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
+SileoDepiction: https://myclassic.net/sileo.php?pid=1513
+Name: A-Bypass
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.daliitm.iconrepo
+Essential: yes
+Section: Icon
+Maintainer: iDevid <repo@hackyouriphone.org>
+Architecture: iphoneos-arm
+Version: 8.0.4
+Description: Officials HYI Repo Icons
+Name: HYI Repo Icons
+Author: HackYouriPhone <repo@hackyouriphone.org>
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=IconRepo
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=IconRepo
